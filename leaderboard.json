@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Scottie Scheffler",
+    "team": "Campbell",
+    "score": -6,
+    "cut": false,
+    "eagles": 1,
+    "aces": 0
+  },
+  {
+    "name": "Jon Rahm",
+    "team": "Richard",
+    "score": -2,
+    "cut": false,
+    "eagles": 0,
+    "aces": 0
+  }
+]
