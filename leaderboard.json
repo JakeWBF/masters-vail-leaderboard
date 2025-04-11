@@ -2,15 +2,191 @@
   {
     "name": "Scottie Scheffler",
     "team": "Campbell",
-    "score": -6,
+    "score": -11,
     "cut": false,
-    "eagles": 1,
+    "eagles": 0,
+    "aces": 0
+  },
+  {
+    "name": "Ludvig Åberg",
+    "team": "Campbell",
+    "score": -7,
+    "cut": false,
+    "eagles": 0,
+    "aces": 0
+  },
+  {
+    "name": "Jordan Spieth",
+    "team": "Campbell",
+    "score": 9,
+    "cut": true,
+    "eagles": 0,
+    "aces": 0
+  },
+  {
+    "name": "Corey Conners",
+    "team": "Campbell",
+    "score": 7,
+    "cut": false,
+    "eagles": 0,
+    "aces": 0
+  },
+  {
+    "name": "Rory McIlroy",
+    "team": "Stevens",
+    "score": 4,
+    "cut": false,
+    "eagles": 0,
+    "aces": 0
+  },
+  {
+    "name": "Shane Lowry",
+    "team": "Stevens",
+    "score": 8,
+    "cut": true,
+    "eagles": 0,
+    "aces": 0
+  },
+  {
+    "name": "Justin Thomas",
+    "team": "Stevens",
+    "score": 7,
+    "cut": true,
+    "eagles": 0,
+    "aces": 0
+  },
+  {
+    "name": "Max Homa",
+    "team": "Stevens",
+    "score": -4,
+    "cut": false,
+    "eagles": 0,
     "aces": 0
   },
   {
     "name": "Jon Rahm",
     "team": "Richard",
+    "score": 9,
+    "cut": true,
+    "eagles": 0,
+    "aces": 0
+  },
+  {
+    "name": "Viktor Hovland",
+    "team": "Richard",
+    "score": 8,
+    "cut": true,
+    "eagles": 0,
+    "aces": 0
+  },
+  {
+    "name": "Patrick Cantlay",
+    "team": "Richard",
+    "score": 4,
+    "cut": false,
+    "eagles": 0,
+    "aces": 0
+  },
+  {
+    "name": "Tony Finau",
+    "team": "Richard",
+    "score": 13,
+    "cut": false,
+    "eagles": 0,
+    "aces": 0
+  },
+  {
+    "name": "Xander Schauffele",
+    "team": "Mark",
+    "score": -1,
+    "cut": false,
+    "eagles": 0,
+    "aces": 0
+  },
+  {
+    "name": "Will Zalatoris",
+    "team": "Mark",
+    "score": 0,
+    "cut": false,
+    "eagles": 0,
+    "aces": 0
+  },
+  {
+    "name": "Hideki Matsuyama",
+    "team": "Mark",
+    "score": 7,
+    "cut": false,
+    "eagles": 0,
+    "aces": 0
+  },
+  {
+    "name": "Min Woo Lee",
+    "team": "Mark",
+    "score": 4,
+    "cut": false,
+    "eagles": 0,
+    "aces": 0
+  },
+  {
+    "name": "Brooks Koepka",
+    "team": "Pratty",
+    "score": 9,
+    "cut": true,
+    "eagles": 0,
+    "aces": 0
+  },
+  {
+    "name": "Collin Morikawa",
+    "team": "Pratty",
+    "score": -4,
+    "cut": false,
+    "eagles": 0,
+    "aces": 0
+  },
+  {
+    "name": "Cameron Smith",
+    "team": "Pratty",
     "score": -2,
+    "cut": false,
+    "eagles": 0,
+    "aces": 0
+  },
+  {
+    "name": "Sepp Straka",
+    "team": "Pratty",
+    "score": 2,
+    "cut": false,
+    "eagles": 0,
+    "aces": 0
+  },
+  {
+    "name": "Bryson DeChambeau",
+    "team": "Joe",
+    "score": -2,
+    "cut": false,
+    "eagles": 0,
+    "aces": 0
+  },
+  {
+    "name": "Tyrrell Hatton",
+    "team": "Joe",
+    "score": 0,
+    "cut": false,
+    "eagles": 0,
+    "aces": 0
+  },
+  {
+    "name": "Joaquin Niemann",
+    "team": "Joe",
+    "score": 4,
+    "cut": false,
+    "eagles": 0,
+    "aces": 0
+  },
+  {
+    "name": "Tommy Fleetwood",
+    "team": "Joe",
+    "score": -4,
     "cut": false,
     "eagles": 0,
     "aces": 0
